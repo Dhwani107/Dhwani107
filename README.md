@@ -1,14 +1,9 @@
-[![MasterHead]("https://wall.alphacoders.com/big.php?i=665091#google_vignette")](https://Dhwani107.io)
+
 <h1 align="center">Hi 👋, I'm Dhwani Chauhan</h1>
 <h3 align="center">Nerd by choice, lazy by design</h3>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/2413754-Coding">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhwani107&label=Profile%20views&color=0e75b6&style=flat" alt="dhwani107" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhwani107" alt="dhwani107" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/dhwani107" target="blank"><img src="https://img.shields.io/twitter/follow/dhwani107?logo=twitter&style=for-the-badge" alt="dhwani107" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
