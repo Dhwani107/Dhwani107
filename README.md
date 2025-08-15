@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216644487-64767dbf-3ffd-4a5a-bb44-88f07ea5a31c.gif" alt="Logo 1" width="400" height="300"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif"alt="Logo 2" width="400" height="300"/>
+
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhwani Chauhan</h1>
